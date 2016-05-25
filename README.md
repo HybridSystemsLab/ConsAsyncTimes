@@ -5,7 +5,7 @@ strongly connected and weight balanced graph with an adjacency matrix given by
             
 	G = [0 1 0 1; 1 0 1 0; 0 1 0 1; 1 0 1 0]
     
-where the graphs are only able to communicate at stocastically determined isolated events.  
+where the agents communicate at local stocastically driven isolated events.  
 
 
 II. File List
@@ -18,7 +18,6 @@ II. File List
 	g.m
 	hybridsolver.m
 	plotflows.m
-	e55.eps
 
 III. To Run
 ------------
