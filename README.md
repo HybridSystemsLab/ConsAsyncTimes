@@ -9,7 +9,7 @@ where the graphs are only able to communicate at stocastically determined isolat
 
 
 II. File List
-
+------------
 	
 	run4_consensus.m
 	C.m
@@ -21,5 +21,6 @@ II. File List
 	e55.eps
 
 III. To Run
+------------
 	Using Matlab 2015a or higher, run the script run4_consensus.m. 
 	
